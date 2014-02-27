@@ -12,6 +12,7 @@
  * Copyright (C) 2010, Guennadi Liakhovetski <g.liakhovetski@gmx.de>
  */
 
+#include <linux/module.h>
 #include <linux/component.h>
 #include <linux/irq.h>
 #include <linux/delay.h>
